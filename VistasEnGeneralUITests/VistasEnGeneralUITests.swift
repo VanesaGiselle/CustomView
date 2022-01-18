@@ -2,7 +2,7 @@
 //  VistasEnGeneralUITests.swift
 //  VistasEnGeneralUITests
 //
-//  Created by Emiliano on 04/01/2022.
+//  Created by Vanesa Korbenfeld on 04/01/2022.
 //
 
 import XCTest
